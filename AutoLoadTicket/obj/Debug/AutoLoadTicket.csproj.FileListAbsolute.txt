@@ -436,3 +436,8 @@ C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.cs
 C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
 C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
 C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe.config
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.xml

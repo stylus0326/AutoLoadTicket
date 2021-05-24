@@ -249,7 +249,8 @@ namespace AutoLoadTicket
                                             insert into khoangay(TuNgay,HoatDong,Them,Sua,Xoa,KhoaHangBay,Code,nganhang,ThemNH,SuaNH,XoaNH) values (GETDATE()-1,1,1,1,1,'','',1,1,1,1);
                                             INSERT INTO [dbo].[BANBAOCAO] ([NgaySDKH],[SDC_Duong_NV] ,[SDC_Am_NV] ,[SDC_Duong_DL] ,[SDC_Am_DL] ,[SDC_Duong_CTV] ,[SDC_Am_CTV] ,[SDC_Duong_HB] ,[SDC_Am_HB] ,[SDC_Duong_NH] ,[SDC_Am_NH] ,[BienDong] ,[BienDongVon] ,[KhachLe] ,[QuyCoc])
                                                  VALUES (CONVERT(DATE,GETDATE()) ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0);
-
+                                            update GIAODICH set CapNhatLuyKe = 0 where CapNhatLuyKe = 1 and convert(date,NgayGD) = convert(date,getdate())
+                                            update CTNGANHANG set CapNhatLuyKeNH = 0 where CapNhatLuyKeNH = 1 and convert(date,NgayHT) = convert(date,getdate())
                                             INSERT INTO [CRMF1].[dbo].[SODU_NGANHANG]([NganHangID],[SoDuCuoi],[Ngay],[IDThanhHoang]) SELECT ID,0,GETDATE()+1,IDThanhHoang FROM [CRMF1].[dbo].NGANHANG
                                             INSERT INTO [CRMF1].[dbo].[SODU_KHACHHANG] ([Ngay],[DaiLy],[SoDuCuoi] ,[ChinhSach] ,[IDThanhHoang]) SELECT GETDATE()+1,ID,0,ChinhSach,IDThanhHoang FROM [CRMF1].[dbo].KHACHHANG WHERE LoaiKhachHang <> 3;
                                             INSERT INTO [CRMF1].[dbo].[SODU_HANG]([NCCID] ,[SoDuCuoi] ,[Ngay] ,[SoDuThucTe] ,[Error] ,[IDThanhHoang])SELECT ID,0,GETDATE()+1,0,'',IDThanhHoang FROM  [CRMF1].[dbo].NHACUNGCAP;

@@ -228,3 +228,5 @@ C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.C
 C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
 C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
 C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.xml
