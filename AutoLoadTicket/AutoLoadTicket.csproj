@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E9D099BC-8132-42F3-A933-2D374D585A80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AutoLoadTicket</RootNamespace>
+    <AssemblyName>AutoLoadTicket</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAutoLoadTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutoLoadTicket.Designer.cs">
+      <DependentUpon>frmAutoLoadTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVJ2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVJ2.Designer.cs">
+      <DependentUpon>frmVJ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAutoLoadTicket.resx">
+      <DependentUpon>frmAutoLoadTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVJ2.resx">
+      <DependentUpon>frmVJ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{598973F6-FE50-4DCC-8F50-29F338902FF0}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataTransferObject\DataTransferObject.csproj">
+      <Project>{CD5D255F-28BB-488E-BC66-9FC25B080939}</Project>
+      <Name>DataTransferObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProJBamBoo\ProJBamBoo.csproj">
+      <Project>{843A3354-E5A0-4A71-83D4-067A18BFB880}</Project>
+      <Name>ProJBamBoo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProJSoDu\ProJSoDu.csproj">
+      <Project>{5448B73A-1C9F-442E-8348-BC6D5E929C27}</Project>
+      <Name>ProJSoDu</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProJVietTravel\ProJVietTravel.csproj">
+      <Project>{9d66bd25-b0ec-4b36-a553-ff69c2d5e641}</Project>
+      <Name>ProJVietTravel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VietJetProJ\ProJVietJet.csproj">
+      <Project>{57472BA0-7525-451A-932A-055EB18334C1}</Project>
+      <Name>ProJVietJet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VietNamProJ\ProJVietNam.csproj">
+      <Project>{14A73F5A-AF35-491C-BB10-73097E43CAE3}</Project>
+      <Name>ProJVietNam</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,230 @@
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+D:\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+D:\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.xml
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.xml
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x86\tesseract41.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\x64\tesseract41.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\chromedriver.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\tessdata\eng.traineddata
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\VietNamProJ.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\Tesseract.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.frmVN.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.Properties.Resources.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\ProJVietNam.csproj.CopyComplete
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\VietNamProJ\obj\Debug\VietNamProJ.pdb

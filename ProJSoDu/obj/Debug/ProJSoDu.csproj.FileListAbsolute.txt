@@ -1,0 +1,147 @@
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+D:\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.xml
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.xml
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.xml
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.xml
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\ProJSoDu.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\DataTransferObject.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.frmSoDu.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.Properties.Resources.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb

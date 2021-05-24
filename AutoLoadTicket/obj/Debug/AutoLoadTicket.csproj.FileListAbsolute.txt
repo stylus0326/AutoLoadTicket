@@ -1,0 +1,438 @@
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\client.json
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\credentials.json
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.xml
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.xml
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.xml
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\client.json
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\credentials.json
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.xml
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.xml
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\client.json
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\credentials.json
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\credentials-Sheet.json
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\credentials.json
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\APIExcel.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Auth.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Google.Apis.Core.xml
+C:\Users\BinGo\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Newtonsoft.Json.xml
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+D:\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+D:\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.xml
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.xml
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x86\tesseract41.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\x64\tesseract41.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\chromedriver.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\CSS-Block_v1.0.0.crx
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\tessdata\eng.traineddata
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\AutoLoadTicket.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\Tesseract.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\DataTransferObject.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJBamBoo.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJSoDu.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\ProJVietTravel.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietJetProJ.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\VietNamProJ.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmAutoLoadTicket.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.frmVJ2.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.Properties.Resources.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.csproj.CopyComplete
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\AutoLoadTicket\obj\Debug\AutoLoadTicket.pdb

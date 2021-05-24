@@ -1,0 +1,135 @@
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+D:\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+D:\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+D:\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+D:\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+D:\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+D:\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+D:\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+D:\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\ProJBamBoo.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\bin\Debug\DataTransferObject.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.frmQH.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.Properties.Resources.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.csproj.CopyComplete
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\ProJBamBoo\obj\Debug\ProJBamBoo.pdb

@@ -1,0 +1,135 @@
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\source\repos\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\BinGo\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\ICE Cold\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\ICE Cold\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\BinGo\Desktop\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+D:\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+D:\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+D:\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+D:\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+D:\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+D:\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+D:\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+D:\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\PUG\Desktop\AutoLoadTicket- OLD\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe.config
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\VietJetProJ.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.dll
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\bin\Debug\DataTransferObject.pdb
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.frmVJ.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.Properties.Resources.resources
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\ProJVietJet.csproj.CopyComplete
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.exe
+C:\Users\Admin\Desktop\AutoLoadTicket\VietJetProJ\obj\Debug\VietJetProJ.pdb
