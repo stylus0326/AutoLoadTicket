@@ -421,7 +421,7 @@ namespace ProJBamBoo
                                     for (int u = 0; u < VeHoanGD.Count; u++)
                                     {
                                         if (GD[i].NgayGD.ToString("ddMMyy").Equals(VeHoanGD[u].NgayGD.ToString("ddMMyy"))
-                                            && GD[i].GiaHoan == VeHoanGD[u].GiaHoan && GD[i].MaCho == VeHoanGD[u].MaCho
+                                            && GD[i].HangHoan == VeHoanGD[u].HangHoan && GD[i].MaCho == VeHoanGD[u].MaCho
                                             && GD[i].TenKhach == VeHoanGD[u].TenKhach)
                                         {
                                             GD.Remove(GD[i]);

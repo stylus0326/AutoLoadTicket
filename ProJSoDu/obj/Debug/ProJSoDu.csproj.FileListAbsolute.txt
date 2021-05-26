@@ -145,3 +145,7 @@ C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CoreCom
 C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.csproj.CopyComplete
 C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.exe
 C:\Users\Admin\Desktop\AutoLoadTicket\ProJSoDu\obj\Debug\ProJSoDu.pdb
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.dll
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.dll
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.xml
+D:\AutoLoadTicket\ProJSoDu\bin\Debug\WebDriver.Support.xml

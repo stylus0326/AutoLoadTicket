@@ -139,7 +139,7 @@ namespace DataAccessLayer
             string CauTruyVan = @"SELECT MaCho,GiaHoan,NgayGD,TenKhach FROM GIAODICH WHERE NhaCungCap = " + NCC + " AND LoaiGiaoDich = 9 AND (";
             foreach (GiaoDichO gd in lst)
             {
-                CauTruyVan += string.Format("(Macho = '{0}' and GiaHoan = {1} and CONVERT(DATE,NgayGD) = '{2}' and TenKhach = N'{3}') OR ", gd.MaCho, gd.GiaHoan, gd.NgayGD.ToString("yyyyMMdd"), gd.TenKhach);
+                CauTruyVan += string.Format("(coalesce(Macho,'') = '{0}' and HangHoan = {1} and CONVERT(DATE,NgayGD) = '{2}' and TenKhach = N'{3}') OR ", gd.MaCho, gd.HangHoan, gd.NgayGD.ToString("yyyyMMdd"), gd.TenKhach);
             }
 
             CauTruyVan = CauTruyVan.Substring(0, CauTruyVan.Length - 3) + ")";
