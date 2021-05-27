@@ -136,7 +136,7 @@ namespace DataAccessLayer
         public List<GiaoDichO> VeHoan(List<GiaoDichO> lst, int NCC)
         {
 
-            string CauTruyVan = @"SELECT MaCho,GiaHoan,NgayGD,TenKhach FROM GIAODICH WHERE NhaCungCap = " + NCC + " AND LoaiGiaoDich = 9 AND (";
+            string CauTruyVan = @"SELECT MaCho,HangHoan,NgayGD,TenKhach FROM GIAODICH WHERE NhaCungCap = " + NCC + " AND LoaiGiaoDich = 9 AND (";
             foreach (GiaoDichO gd in lst)
             {
                 CauTruyVan += string.Format("(coalesce(Macho,'') = '{0}' and HangHoan = {1} and CONVERT(DATE,NgayGD) = '{2}' and TenKhach = N'{3}') OR ", gd.MaCho, gd.HangHoan, gd.NgayGD.ToString("yyyyMMdd"), gd.TenKhach);
@@ -206,7 +206,7 @@ namespace DataAccessLayer
                 if (i < XulyStr.Rows.Count - 1)
                     CauTruyVan += "','";
             }
-            CauTruyVan += string.Format(@"SELECT distinct MaCho FROM GIAODICH WHERE NhaCungCap = 21 AND LoaiGiaoDich = 4 Macho in('{0}') ");
+            CauTruyVan = string.Format(@"SELECT distinct MaCho FROM GIAODICH WHERE NhaCungCap = 21 AND LoaiGiaoDich = 4 and Macho in('{0}') ", CauTruyVan);
             return LayDuLieu<GiaoDichO>(false, CauTruyVan).Select(w => w.MaCho).ToList();
         }
 
