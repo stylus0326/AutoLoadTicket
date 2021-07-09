@@ -69,106 +69,113 @@ namespace VietJetProJ
 
                     for (int i = 0; i < BanTam.Count; i++)
                     {
-                        string lienlac = tblThongTinDatCho_trs[0].GetElementsByTagName("td")[1].InnerText;
-                        int idx = lienlac.IndexOf(' ');
-                        if (idx > 0)
-                            BanTam[i].DienThoaiKhachHang = lienlac.Substring(0, idx);
-                        BanTam[i].EmailKhachHang = tblThongTinDatCho_trs[1].GetElementsByTagName("td")[1].InnerText;
-                        if (BanTam[i].LoaiKhachHang < 1)
+                        try
                         {
-                            List<DaiLyO> Dl = lstDaiLy.Where(w => (w.EmailGiaoDich ?? string.Empty).ToUpper().Contains((BanTam[i].EmailKhachHang ?? string.Empty).ToUpper())
-                            && (w.EmailGiaoDich ?? string.Empty).Length > 0 && (BanTam[i].EmailKhachHang ?? string.Empty).Length > 0).ToList();
-                            if (Dl.Count > 0)
+                            string lienlac = tblThongTinDatCho_trs[0].GetElementsByTagName("td")[1].InnerText;
+                            int idx = lienlac.IndexOf(' ');
+                            if (idx > 0)
+                                BanTam[i].DienThoaiKhachHang = lienlac.Substring(0, idx);
+                            BanTam[i].EmailKhachHang = tblThongTinDatCho_trs[1].GetElementsByTagName("td")[1].InnerText;
+                            if (BanTam[i].LoaiKhachHang < 1)
                             {
-                                BanTam[i].IDKhachHang = Dl[0].ID;
-                                BanTam[i].LoaiKhachHang = Dl[0].LoaiKhachHang;
+                                List<DaiLyO> Dl = lstDaiLy.Where(w => (w.EmailGiaoDich ?? string.Empty).ToUpper().Contains((BanTam[i].EmailKhachHang ?? string.Empty).ToUpper())
+                                && (w.EmailGiaoDich ?? string.Empty).Length > 0 && (BanTam[i].EmailKhachHang ?? string.Empty).Length > 0).ToList();
+                                if (Dl.Count > 0)
+                                {
+                                    BanTam[i].IDKhachHang = Dl[0].ID;
+                                    BanTam[i].LoaiKhachHang = Dl[0].LoaiKhachHang;
+                                }
                             }
-                        }
 
-                        List<TableVJ> tb = new List<TableVJ>();
-                        foreach (HtmlElement htmlElement in tblGiao_trs)
-                        {
-                            HtmlElementCollection g = htmlElement.GetElementsByTagName("td");
-                            if (g.Count > 5)
+                            List<TableVJ> tb = new List<TableVJ>();
+                            foreach (HtmlElement htmlElement in tblGiao_trs)
                             {
-                                TableVJ tVJ = new TableVJ();
-                                tVJ.LEG = int.Parse(new String(g[0].InnerText.Where(Char.IsDigit).ToArray()));
-                                tVJ.TEN = g[1].InnerText;
-                                tVJ.MOTA = g[2].InnerText;
-                                tVJ.SOTIEN = int.Parse(new String(g[3].InnerText.Where(Char.IsDigit).ToArray()));
-                                tVJ.VAT = int.Parse(new String(g[4].InnerText.Where(Char.IsDigit).ToArray()));
-                                tVJ.TONG = int.Parse(new String(g[5].InnerText.Where(Char.IsDigit).ToArray()));
+                                HtmlElementCollection g = htmlElement.GetElementsByTagName("td");
+                                if (g.Count > 5)
+                                {
+                                    TableVJ tVJ = new TableVJ();
+                                    tVJ.LEG = int.Parse(new String(g[0].InnerText.Where(Char.IsDigit).ToArray()));
+                                    tVJ.TEN = g[1].InnerText;
+                                    tVJ.MOTA = g[2].InnerText;
+                                    tVJ.SOTIEN = int.Parse(new String(g[3].InnerText.Where(Char.IsDigit).ToArray()));
+                                    tVJ.VAT = int.Parse(new String(g[4].InnerText.Where(Char.IsDigit).ToArray()));
+                                    tVJ.TONG = int.Parse(new String(g[5].InnerText.Where(Char.IsDigit).ToArray()));
 
-                                if (tVJ.TEN.Replace(",", string.Empty).Equals(BanTam[i].TenKhach))
-                                    tb.Add(tVJ);
+                                    if (tVJ.TEN.Replace(",", string.Empty).Equals(BanTam[i].TenKhach))
+                                        tb.Add(tVJ);
+                                }
                             }
-                        }
 
-                        int Net = 0;
-                        int Fare = 0;
-                        foreach (TableVJ z in tb)
-                        {
-                            if (z.MOTA.StartsWith("Airport Tax Domestic"))
-                                Net += z.TONG;
-                            else if (z.MOTA.StartsWith("Admin Fee Domestic"))
-                                Net += z.TONG;
-                            else if (z.MOTA.StartsWith("Airport Security"))
-                                Net += z.TONG;
-                            else if (z.MOTA.ToLower().Contains(" - " + BanTam[i].LoaiVeDi.ToLower()) || z.MOTA.ToLower().Contains(" - " + (BanTam[i].LoaiVeVe ?? BanTam[i].LoaiVeDi).ToLower()))
+                            int Net = 0;
+                            int Fare = 0;
+                            foreach (TableVJ z in tb)
                             {
-                                Net += z.TONG;
-                                Fare += z.TONG;
-                            }
-                            else if (z.MOTA.Contains("Add Ons") && z.MOTA.Contains("Bag"))
-                            {
-                                if (z.TONG == BanTam[i].GiaNet)
+                                if (z.MOTA.StartsWith("Airport Tax Domestic"))
+                                    Net += z.TONG;
+                                else if (z.MOTA.StartsWith("Admin Fee Domestic"))
+                                    Net += z.TONG;
+                                else if (z.MOTA.StartsWith("Airport Security"))
+                                    Net += z.TONG;
+                                else if (z.MOTA.ToLower().Replace(" ", "").Contains("-" + BanTam[i].LoaiVeDi.ToLower()) || z.MOTA.ToLower().Contains("-" + (BanTam[i].LoaiVeVe ?? BanTam[i].LoaiVeDi).ToLower()))
+                                {
+                                    Net += z.TONG;
+                                    Fare += z.TONG;
+                                }
+                                else if (z.MOTA.Contains("Add Ons") && z.MOTA.Contains("Bag"))
+                                {
+                                    if (z.TONG == BanTam[i].GiaNet)
+                                    {
+                                        BanTam[i].LoaiGiaoDich = 14;
+                                        BanTam[i].Fare = 0;
+                                        BanTam[i].BiDanh = "BAG" + int.Parse(new String(z.MOTA.Split('-')[1].Where(Char.IsDigit).ToArray())).ToString();
+                                    }
+                                    else
+                                    {
+                                        if (z.LEG == 1)
+                                            BanTam[i].HanhLyDi = int.Parse(new String(z.MOTA.Split('-')[1].Where(Char.IsDigit).ToArray())).ToString() + "KG";
+                                        else
+                                            BanTam[i].HanhLyVe = int.Parse(new String(z.MOTA.Split('-')[1].Where(Char.IsDigit).ToArray())).ToString() + "KG";
+                                    }
+                                    break;
+                                }
+                                else if (z.MOTA.Contains("ROUTING - MODIFICATION") && z.TONG == BanTam[i].GiaNet)
+                                {
+                                    BanTam[i].LoaiGiaoDich = 13;
+                                    BanTam[i].BiDanh = "RM";
+                                    BanTam[i].Fare = 0;
+                                    break;
+                                }
+                                else if (z.MOTA.Contains("PASSENGER - CHANGE") && z.TONG == BanTam[i].GiaNet)
+                                {
+                                    BanTam[i].LoaiGiaoDich = 13;
+                                    BanTam[i].Fare = 0;
+                                    BanTam[i].BiDanh = "PC";
+                                    break;
+                                }
+                                else if (z.MOTA.Contains("Seat Assignment") && z.TONG == BanTam[i].GiaNet)
                                 {
                                     BanTam[i].LoaiGiaoDich = 14;
                                     BanTam[i].Fare = 0;
-                                    BanTam[i].BiDanh = "BAG" + int.Parse(new String(z.MOTA.Split('-')[1].Where(Char.IsDigit).ToArray())).ToString();
+                                    BanTam[i].BiDanh = "SEAT";
+                                    break;
                                 }
-                                else
-                                {
-                                    if (z.LEG == 1)
-                                        BanTam[i].HanhLyDi = int.Parse(new String(z.MOTA.Split('-')[1].Where(Char.IsDigit).ToArray())).ToString() + "KG";
-                                    else
-                                        BanTam[i].HanhLyVe = int.Parse(new String(z.MOTA.Split('-')[1].Where(Char.IsDigit).ToArray())).ToString() + "KG";
-                                }
-                                break;
-                            }
-                            else if (z.MOTA.Contains("ROUTING - MODIFICATION") && z.TONG == BanTam[i].GiaNet)
-                            {
-                                BanTam[i].LoaiGiaoDich = 13;
-                                BanTam[i].BiDanh = "RM";
-                                BanTam[i].Fare = 0;
-                                break;
-                            }
-                            else if (z.MOTA.Contains("PASSENGER - CHANGE") && z.TONG == BanTam[i].GiaNet)
-                            {
-                                BanTam[i].LoaiGiaoDich = 13;
-                                BanTam[i].Fare = 0;
-                                BanTam[i].BiDanh = "PC";
-                                break;
-                            }
-                            else if (z.MOTA.Contains("Seat Assignment") && z.TONG == BanTam[i].GiaNet)
-                            {
-                                BanTam[i].LoaiGiaoDich = 14;
-                                BanTam[i].Fare = 0;
-                                BanTam[i].BiDanh = "SEAT";
-                                break;
+
                             }
 
+                            if (Net <= BanTam[i].GiaNet)
+                                BanTam[i].Fare = Fare;
+                            else
+                            {
+                                if (BanTam[i].LoaiGiaoDich == 4)
+                                    BanTam[i].LoaiGiaoDich = 13;
+                                BanTam[i].Fare = Fare;
+                            }
                         }
-
-                        if (Net <= BanTam[i].GiaNet)
-                            BanTam[i].Fare = Fare;
-                        else
+                        catch { }
+                        finally
                         {
-                            if (BanTam[i].LoaiGiaoDich == 4)
-                                BanTam[i].LoaiGiaoDich = 13;
-                            BanTam[i].Fare = 0;
+                            VeThem.Add(BanTam[i]);
                         }
-                        VeThem.Add(BanTam[i]);
                     }
 
                     Xuli();

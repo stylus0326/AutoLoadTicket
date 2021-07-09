@@ -254,7 +254,7 @@ namespace AutoLoadTicket
                                             INSERT INTO [CRMF1].[dbo].[SODU_NGANHANG]([NganHangID],[SoDuCuoi],[Ngay],[IDThanhHoang]) SELECT ID,0,GETDATE()+1,IDThanhHoang FROM [CRMF1].[dbo].NGANHANG
                                             INSERT INTO [CRMF1].[dbo].[SODU_KHACHHANG] ([Ngay],[DaiLy],[SoDuCuoi] ,[ChinhSach] ,[IDThanhHoang]) SELECT GETDATE()+1,ID,0,ChinhSach,IDThanhHoang FROM [CRMF1].[dbo].KHACHHANG WHERE LoaiKhachHang <> 3;
                                             INSERT INTO [CRMF1].[dbo].[SODU_HANG]([NCCID] ,[SoDuCuoi] ,[Ngay] ,[SoDuThucTe] ,[Error] ,[IDThanhHoang])SELECT ID,0,GETDATE()+1,0,'',IDThanhHoang FROM  [CRMF1].[dbo].NHACUNGCAP;
-
+                                            delete from SODU_DAILY where IDSD in (select MIN(idsd) from SODU_DAILY group by CONVERT(date,ngay),DaiLyID having count(DaiLyID) >1);
 ");
                         new GiaoDichD().ChayCauTruyVan(CauTruyVan);
                     }
